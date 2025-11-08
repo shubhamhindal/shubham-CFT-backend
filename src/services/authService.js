@@ -58,7 +58,7 @@ module.exports = {
         username: user.username,
         email: user.email,
       },
-      expiresIn: 15 * 60, // 15 minutes in seconds
+      expiresIn: 15 * 60,
     };
   }
 };
